@@ -1,5 +1,5 @@
 resource "aws_autoscaling_group" "autoscaling_group" {
-  name                 = "autoscaling-group"
+  name                 = "autoscaling_group"
   min_size             = 1  # 최소 인스턴스 갯수
   max_size             = 1  # 최대 인스턴스 갯수
   desired_capacity     = 1  # 원하는 인스턴스 갯수
