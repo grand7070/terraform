@@ -1,0 +1,6 @@
+root/stage/.terraform
+root/stage/.terraform.lock.hcl
+root/stage/terraform.tfstate
+root/stage/terraform.tfstate.backup
+global
+reference.txt
